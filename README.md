@@ -19,12 +19,12 @@ def sum_two_lists(list1, list2):
 ```python
 print(sum_two_lists([1, 2, 3], [4, 5, 6]))
 # Output: [5, 7, 9]
-```
-Example
-list1 = [10, 20, 30]
-list2 = [1, 2, 3]
-result = sum_two_lists(list1, list2)
-print(result)  # Output: [11, 22, 33]
 
+# Example
+# list1 = [10, 20, 30]
+# list2 = [1, 2, 3]
+# result = sum_two_lists(list1, list2)
+# print(result)  # Output: [11, 22, 33]
+```
 Contact
 Email: filippovychh@gmail.com
